@@ -1,0 +1,59 @@
+﻿  Main.cpp
+c:\users\wojteg\desktop\6_semestr\modelowanie wieloskalowe\rozrostziarenost\gameoflife\TextField.h(14): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Main.cpp(88): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Main.cpp(107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(109): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(116): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(210): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Main.cpp(215): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Main.cpp(220): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Main.cpp(225): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Main.cpp(248): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Main.cpp(250): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Main.cpp(252): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Main.cpp(254): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Main.cpp(267): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Main.cpp(271): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Main.cpp(275): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Main.cpp(279): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Main.cpp(815): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(862): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(975): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Main.cpp(1022): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Main.cpp(1024): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Main.cpp(1029): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Main.cpp(1030): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Main.cpp(1051): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(1142): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(1148): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(1155): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(1162): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(1164): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(1166): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(1168): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(1170): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(1211): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(1217): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(283): warning C4101: 'maxR': unreferenced local variable
+Main.cpp(131): warning C4101: 'cordY': unreferenced local variable
+Main.cpp(131): warning C4101: 'cordX': unreferenced local variable
+Main.cpp(131): warning C4101: 'cordX1': unreferenced local variable
+Main.cpp(131): warning C4101: 'cordY1': unreferenced local variable
+Main.cpp(886): warning C4101: 'maxCells': unreferenced local variable
+  Generating code
+  2 of 1207 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GameOfLife.vcxproj -> C:\Users\Wojteg\Desktop\6_semestr\Modelowanie Wieloskalowe\RozrostZiarenOST\x64\Release\GameOfLife.exe
+  GameOfLife.vcxproj -> C:\Users\Wojteg\Desktop\6_semestr\Modelowanie Wieloskalowe\RozrostZiarenOST\x64\Release\GameOfLife.pdb (Full PDB)
